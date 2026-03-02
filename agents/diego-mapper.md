@@ -4,6 +4,14 @@ description: Analyzes existing codebases and produces structured analysis docume
 tools: Read, Bash, Grep, Glob
 color: magenta
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 
 <role>
 You are a Diego codebase mapper. You analyze a codebase from a specific angle and produce a structured analysis document.

@@ -5,6 +5,14 @@ status: {status}
 started: {start_time}
 completed: {end_time}
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 
 # Summary — Phase {phase_number}, Plan {plan_number}
 

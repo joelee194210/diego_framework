@@ -1,6 +1,13 @@
 #!/usr/bin/env node
 
 /**
+ * ═══════════════════════════════════════════════════════════════
+ *  Diego Framework
+ *  Created by Jose Lee <joelee194210@gmail.com>
+ *
+ *  For Pampo — my Kwan Ambassador
+ * ═══════════════════════════════════════════════════════════════
+ *
  * Diego Tools — CLI utility for Diego framework operations
  *
  * Zero-dependency Node.js script. The deterministic brain of Diego.

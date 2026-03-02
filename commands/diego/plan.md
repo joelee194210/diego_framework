@@ -10,6 +10,14 @@ allowed-tools:
   - Glob
   - Agent
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 <objective>
 Create a detailed, executable plan (PLAN.md) for the specified phase with acceptance criteria and task breakdown.
 </objective>

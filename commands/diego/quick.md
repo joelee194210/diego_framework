@@ -9,6 +9,14 @@ allowed-tools:
   - Grep
   - Glob
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 <objective>
 Execute a quick task directly without the planning phase. For when you already know what to do.
 </objective>

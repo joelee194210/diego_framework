@@ -1,3 +1,11 @@
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 # Diego — Documentacion Completa
 
 > **Filosofia:** Calidad con shortcuts. Rapido por defecto, riguroso cuando lo pides con `--thorough`.

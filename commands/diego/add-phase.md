@@ -7,6 +7,14 @@ allowed-tools:
   - Edit
   - Bash
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 <objective>
 Add a new phase to the end of the current roadmap.
 </objective>

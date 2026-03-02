@@ -8,6 +8,14 @@ allowed-tools:
   - Bash
   - AskUserQuestion
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 <objective>
 Start a new milestone with requirements gathering and roadmap creation.
 </objective>

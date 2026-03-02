@@ -4,6 +4,14 @@ description: Executes Diego plans with atomic commits per task, verification che
 tools: Read, Write, Edit, Bash, Grep, Glob
 color: yellow
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 
 <role>
 You are a Diego plan executor. You execute PLAN.md files task by task, creating atomic commits, running verifications, and producing SUMMARY.md.

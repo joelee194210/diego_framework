@@ -1,6 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# ═══════════════════════════════════════════════════════════════
+#  Diego Framework
+#  Created by Jose Lee <joelee194210@gmail.com>
+#
+#  For Pampo — my Kwan Ambassador
+# ═══════════════════════════════════════════════════════════════
+#
 # Diego Framework — Installer
 # Installs Diego into ~/.claude/ for use with Claude Code
 

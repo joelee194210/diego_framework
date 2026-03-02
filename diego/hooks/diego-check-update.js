@@ -1,6 +1,13 @@
 #!/usr/bin/env node
 
 /**
+ * ═══════════════════════════════════════════════════════════════
+ *  Diego Framework
+ *  Created by Jose Lee <joelee194210@gmail.com>
+ *
+ *  For Pampo — my Kwan Ambassador
+ * ═══════════════════════════════════════════════════════════════
+ *
  * Diego SessionStart Hook — Background version check
  * Non-blocking check against npm registry for newer versions.
  * Caches results to avoid repeated checks.

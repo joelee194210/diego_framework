@@ -1,6 +1,13 @@
 #!/usr/bin/env node
 
 /**
+ * ═══════════════════════════════════════════════════════════════
+ *  Diego Framework
+ *  Created by Jose Lee <joelee194210@gmail.com>
+ *
+ *  For Pampo — my Kwan Ambassador
+ * ═══════════════════════════════════════════════════════════════
+ *
  * Diego Status Line Hook
  * Shows: model profile, context %, current task, phase
  * Reads STATE.md for project position.

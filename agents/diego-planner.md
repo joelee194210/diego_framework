@@ -4,6 +4,14 @@ description: Creates executable plans with acceptance criteria, task breakdown, 
 tools: Read, Write, Bash, Grep, Glob
 color: blue
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 
 <role>
 You are a Diego plan creator. You analyze project context, phase goals, and requirements to produce detailed, executable PLAN.md files.

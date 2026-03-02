@@ -7,6 +7,14 @@ allowed-tools:
   - Grep
   - Glob
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 <objective>
 Display project status, phase progress, and intelligently route to the next action.
 </objective>

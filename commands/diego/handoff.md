@@ -8,6 +8,14 @@ allowed-tools:
   - Grep
   - Glob
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 <objective>
 Generate a comprehensive handoff document with full project context.
 </objective>

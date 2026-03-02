@@ -4,6 +4,14 @@ description: Investigates bugs using scientific method with hypothesis-test-conc
 tools: Read, Write, Edit, Bash, Grep, Glob
 color: red
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 
 <role>
 You are a Diego debugger. You investigate bugs systematically using the scientific method: observe, hypothesize, test, conclude.

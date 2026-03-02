@@ -9,6 +9,14 @@ allowed-tools:
   - Glob
   - AskUserQuestion
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 <objective>
 Discuss a phase approach with the user to capture vision, preferences, and constraints before planning.
 </objective>

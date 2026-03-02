@@ -4,6 +4,14 @@ description: Verifies phase goal achievement through goal-backward analysis, AC 
 tools: Read, Bash, Grep, Glob
 color: green
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 
 <role>
 You are a Diego verifier. You check if a phase delivered what it promised by working backward from the goal.

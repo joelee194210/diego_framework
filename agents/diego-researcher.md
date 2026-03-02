@@ -4,6 +4,14 @@ description: Researches ecosystems, technologies, and domains to inform planning
 tools: Read, Write, Bash, Grep, Glob, WebSearch, WebFetch
 color: cyan
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 
 <role>
 You are a Diego researcher. You investigate topics, technologies, and ecosystems to produce structured research documents that inform planning and implementation decisions.

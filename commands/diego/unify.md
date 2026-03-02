@@ -9,6 +9,14 @@ allowed-tools:
   - Grep
   - Glob
 ---
+<!--
+ ═══════════════════════════════════════════════════════════════
+  Diego Framework
+  Created by Jose Lee <joelee194210@gmail.com>
+
+  For Pampo — my Kwan Ambassador
+ ═══════════════════════════════════════════════════════════════
+-->
 <objective>
 Reconcile what was planned vs what was actually built. Update state, mark phase complete.
 </objective>
