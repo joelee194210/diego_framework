@@ -3,7 +3,7 @@ set -euo pipefail
 
 # ═══════════════════════════════════════════════════════════════
 #  Diego Framework
-#  Created by Jose Lee <joelee194210@gmail.com>
+#  Created by Jose Lee <joelee1942@gmail.com>
 #
 #  For Pampo — my Kwan Ambassador
 # ═══════════════════════════════════════════════════════════════
